@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shamanth S</h1>
+<h3 align="center">An artistic visionary blending ai expertise and interior design finesse, driven by a passion for research projects and currently pursuing a degree in machine learning to shape the future of innovation.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sham04toothless&label=Profile%20views&color=0e75b6&style=flat" alt="sham04toothless" /> </p>
 
 - 🌱 I’m currently learning **Deep stream (Nvidia)**
